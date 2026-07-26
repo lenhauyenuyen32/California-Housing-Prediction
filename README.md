@@ -171,7 +171,7 @@ python main.py
 
 # 👨‍💻 Author
 
-Le Minh Phu
+Truong Thi Ngoc Han
 
 GitHub:
 
