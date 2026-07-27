@@ -170,9 +170,10 @@ python main.py
 ---
 
 # 👨‍💻 Author
-
-Truong Thi Ngoc Han
-
+Nhóm 2:
+Trương Thị Ngọc Hân
+Phạm Thị Ngọc Ngoan
+Trang Thị Kiều Nga
 GitHub:
 
 https://github.com/lenhauyenuyen32
