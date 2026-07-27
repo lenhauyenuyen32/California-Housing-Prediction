@@ -177,6 +177,3 @@ Nhóm 2:
 
 ---
 
-# ⭐ Nếu dự án hữu ích
-
-Nếu bạn thấy dự án hữu ích hãy cho ⭐ repository.
