@@ -174,7 +174,6 @@ Nhóm 2:
 - Trương Thị Ngọc Hân
 - Phạm Thị Ngọc Ngoan
 - Trang Thị Kiều Nga
-GitHub: https://github.com/lenhauyenuyen32
 
 ---
 
