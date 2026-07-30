@@ -116,6 +116,22 @@ Sử dụng:
 
 ![Comparison](outputs/model_comparison.png)
 
+
+
+
+
+![Comparison](outputs/model_comparison_mae.png)
+
+
+
+
+![Comparison](outputs/model_comparison_r2.png)
+
+
+
+
+![Comparison](outputs/model_comparison_rmse.png)
+
 ---
 
 # 🚀 Installation
@@ -170,10 +186,10 @@ python main.py
 ---
 
 # 👨‍💻 Author
-Nhóm 2:
+
+
+nhóm 2: 
 - Trương Thị Ngọc Hân
 - Phạm Thị Ngọc Ngoan
 - Trang Thị Kiều Nga
-
----
 
