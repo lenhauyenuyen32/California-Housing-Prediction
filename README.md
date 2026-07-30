@@ -130,8 +130,6 @@ Sử dụng:
 
 
 
-![Comparison](outputs/model_comparison_rmse.png)
-
 ---
 
 # 🚀 Installation
@@ -171,24 +169,13 @@ python main.py
 - scikit-learn
 - joblib
 
----
-
-# 🎯 Future Improvements
-
-- Feature Engineering
-- Hyperparameter Tuning (GridSearchCV)
-- Cross Validation
-- XGBoost
-- LightGBM
-- CatBoost
-- Model Stacking
 
 ---
 
 # 👨‍💻 Author
 
 
-nhóm 2: 
+Nhóm 2: 
 - Trương Thị Ngọc Hân
 - Phạm Thị Ngọc Ngoan
 - Trang Thị Kiều Nga
