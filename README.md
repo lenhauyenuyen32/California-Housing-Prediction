@@ -50,7 +50,10 @@ California-Housing-Prediction
 │   ├── histogram.png
 │   ├── correlation.png
 │   └── model_comparison.png
-│
+|   └── model_comparison_mae.png
+│   └── model_comparison_r2.png
+|   └── model_comparison_rmse.png
+|
 ├── models/
 │   └── housing_model.pkl
 │
